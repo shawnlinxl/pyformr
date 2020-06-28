@@ -1,0 +1,10 @@
+Package: pyformr
+Type: Package
+Title: Portfolio Analytics
+Version: 0.1.0
+Author: Shawn Lin
+Maintainer: Shawn Lin <shawn.lin@gatech.edu>
+Description: Wrapper for the Python pyform package.
+License: MIT
+Encoding: UTF-8
+LazyData: true
